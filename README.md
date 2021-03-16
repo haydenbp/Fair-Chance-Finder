@@ -1,6 +1,9 @@
 Fair-Chance-Finder
+
 Search "Fair Chance" on indeed.com in the state of your choice.
 
-run the code snippet and it will display a prompt with the company names and locations dilimited by a semicolon
+run the code snippet and it will display a prompt where you can copy the data.
 
-copy and paste into a spreadsheet program
+paste into a spreadsheet program
+
+use the =Unique(A:B) function to sort out duplicates.
