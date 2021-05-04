@@ -1,7 +1,6 @@
 const locationDiv = document.getElementsByClassName('location accessible-contrast-color-location')
 const companyDiv = document.getElementsByClassName('company')
 
-
 let locations = []
 let companies = []
 let output = ''
